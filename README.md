@@ -2,6 +2,12 @@
 
 This project is an e-commerce website developed by me and a team of dedicated members for Warakapola Hardware, situated in Warakapola. The website is crafted to offer an online platform for customers to effortlessly browse and purchase hardware products
 
+
+![Main Screenshot](.readme/1.png)
+
+Click [here](Screenshot.md) to view more screenshots of the code editor in action.
+
+
 ### Technologies Used Frontend: 
   - Frontend: HTML, CSS, Bootstrap
   - Backend: PHP
