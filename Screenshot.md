@@ -20,6 +20,4 @@
 
 ![Main Screenshot](.readme/6.png)
 
-<br>
 
-![Main Screenshot](.readme/7.png)
