@@ -21,3 +21,7 @@ Click [here](Screenshot.md) to view more screenshots of the code editor in actio
   5. I have already prrovided the database tabels oly you want to import.They are located in 'dB'. 
   6. imort those files to 'wpl' databse. 
   7. Then vist the website by changing the url to you xammp project location.ex- 'localhost/htdocs/ '
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
